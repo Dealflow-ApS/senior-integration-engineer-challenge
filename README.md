@@ -11,14 +11,10 @@ Congratulations on making it this far :zap:. If you've received this, it means t
 ## Challenge details
 
 -   **e-conomic API Integration Module**: Develop a module in Python that uses the [e-conomic API](https://www.e-conomic.com/) to connect to accounting services. Implement functionalities for creating invoices, posting payments, and retrieving financial reports to reflect transaction processing within an accounting context.
+OR
+-   *dinero API Integration Module**: Develop a module in Python that uses the [dinero API][https://dinero.dk/] to connect to accounting services. Implement functionalities for creating invoices, posting payments, and retrieving financial reports to reflect transaction processing within an accounting context.
     
 -   **Advanced Transaction Processing System**: Build a system that not only processes transactions but also validates them against predefined rules (e.g., duplicate detection, threshold validation). Incorporate a queuing mechanism to efficiently manage transaction volume, ensuring reliability and consistency.
-    
--   **Dynamic Accounting Record Creation**: Use the e-conomic API to dynamically create and update accounting records based on transaction outcomes. This includes handling sales, adjustments, refunds, and cancellations, ensuring that all financial activities are accurately reflected in e-conomic.
-    
--   **Automated Transaction Reconciliation**: Implement a reconciliation feature that periodically compares transactions processed by your system against records in e-conomic, identifying discrepancies for review or automated adjustment, thereby maintaining data integrity.
-    
--   **Enhanced Security Measures**: Focus on security by implementing OAuth for e-conomic API interactions, encrypting sensitive data during transmission and storage, and employing input validation to safeguard against common vulnerabilities.
     
 -   **Comprehensive Testing and Documentation**:
     
@@ -43,7 +39,7 @@ Congratulations on making it this far :zap:. If you've received this, it means t
 
 
 ## Submission process
-- Submit the challenge within 2 days of receiving / starting the challenge
+- Submit the challenge within 3 days of receiving / starting the challenge
 - Create a private Github repo
 	- Give the following usernames access
 		- [siddharthmudgal](https://github.com/siddharthmudgal)
