@@ -10,9 +10,11 @@ Congratulations on making it this far :zap:. If you've received this, it means t
 
 ## Challenge details
 
-- **Accounting API Integration Module**: Develop a module in Python that uses the [e-conomic API](https://www.e-conomic.com/) or (dinero API)[https://dinero.dk/] to connect to accounting services. Implement functionalities for creating invoices, posting payments, and retrieving financial reports to reflect transaction processing within an accounting context.
+- **Accounting API Integration Module**: Develop a module in Python that uses the [e-conomic API](https://www.e-conomic.com/) or [dinero API](https://dinero.dk/) to connect to accounting services. Implement functionalities for creating invoices, posting payments, and retrieving financial reports to reflect transaction processing within an accounting context.
 
 - **Advanced Transaction Processing System**: Build a system that not only processes transactions but also validates them against predefined rules (e.g., duplicate detection, threshold validation). Incorporate a queuing mechanism to efficiently manage transaction volume, ensuring reliability and consistency.
+
+- **Journal Entry Creation**: Develop functionality to generate journal entries for each transaction using the e-conomic or Dinero API. Ensure that each journal entry records the date, description, debit/credit account, and amount. Provide a brief explanation of how journal entries are used in accounting to maintain the balance.
 
 
 -   **Comprehensive Testing and Documentation**:
