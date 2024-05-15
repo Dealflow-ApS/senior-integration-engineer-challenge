@@ -37,6 +37,7 @@ Congratulations on making it this far :zap:. If you've received this, it means t
 -   **Testing**: Completeness of the testing suite, including unit, integration, and performance tests, and the thoroughness of test cases covering various scenarios.
 -   **Documentation / Code comments Quality**: Clarity, completeness, and utility of the provided documentation, including setup instructions, API usage examples, and system architecture explanations.
 -   **CI/CD and Automation**: Implementation of CI/CD pipelines for automated testing and deployment, looking at the use of GitHub Actions and AWS CodeDeploy, as well as any additional automation that improves development workflow.
+-   **Accounting Knowledge**: Understanding of how API interactions affect financial statements and accounting records.
 
 
 ## Submission process
